@@ -1,0 +1,10 @@
+{
+    "item": [
+        {
+            "properties": {
+                "user": "myuser",
+                "location": "mylocation"
+            }
+        }
+    ]
+}
